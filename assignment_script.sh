@@ -18,7 +18,6 @@ cd newproject
 
 mkdir analysis output
 touch README.md
-echo "# Project Name: DSI Consulting Inc." > README.md
 touch analysis/main.py
 
 # download client data
@@ -60,3 +59,4 @@ find ./data/processed -type f > ./data/inventory.txt
 ###########################################
 
 echo "Project setup is complete!"
+echo "Testing"
